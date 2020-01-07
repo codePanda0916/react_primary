@@ -1,6 +1,6 @@
 # React的基础学习-练习
 
-项目练习采用antd+prop-types
+项目练习采用antd组件库
 
 ### 简介
 render: 页面state或props发生变化时执行，而render函数是只要有state和props变化就会执行。
@@ -57,8 +57,8 @@ shouldComponentUpdate(){
 ```javascript
 componentWillUnmount(){
     // 当组件从页面中删除的时候执行
-    console.log('componentWillUnmount -- 当组件从页面中销毁的时候执行');
-  }
+  console.log('componentWillUnmount -- 当组件从页面中销毁的时候执行');
+}
 ```
 ### 5，存在的性能问题
 通过shouldComponentUpdate来解决子组件的渲染性能问题
