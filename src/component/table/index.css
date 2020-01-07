@@ -1,0 +1,12 @@
+.component_table{
+  margin: 0px 15px;
+}
+.table_content{
+  width: 800px;
+}
+.table_tags{
+  display: block;
+  color: #000;
+  font-size: 16px;
+  margin-bottom: 5px;
+}

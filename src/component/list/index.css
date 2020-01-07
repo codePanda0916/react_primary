@@ -1,0 +1,16 @@
+.myDiv {
+  padding: 15px;
+}
+.input {
+  width: 250px;
+}
+
+.addButton {
+  margin-left: 10px;
+}
+.list {
+  width: 325px;
+  margin: 10px 0;
+  list-style: none;
+  padding: 0;
+}
