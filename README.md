@@ -1,6 +1,12 @@
 # React的基础学习-练习
 
 项目练习采用antd组件库
+```javascript
+// 下载依赖，推荐使用cnpm
+cnpm install
+// 启动服务
+npm start
+```
 
 ### 简介
 render: 页面state或props发生变化时执行，而render函数是只要有state和props变化就会执行。
